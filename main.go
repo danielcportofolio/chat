@@ -6,9 +6,9 @@ import (
 	"log"
 	"net/http"
 
+	"github.com/danielcportofolio/chat/handlers"
+	"github.com/danielcportofolio/chat/repositories"
 	"github.com/gorilla/mux"
-	"github.com/your-package/chat-api/handlers"
-	"github.com/your-package/chat-api/repositories"
 )
 
 func main() {

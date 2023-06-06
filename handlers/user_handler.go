@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/your-package/chat-api/models"
-	"github.com/your-package/chat-api/repositories"
+	"github.com/danielcportofolio/chat-api/models"
+	"github.com/danielcportofolio/chat-api/repositories"
 )
 
 type UserHandler struct {

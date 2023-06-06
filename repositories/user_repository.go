@@ -3,7 +3,7 @@ package repositories
 import (
 	"database/sql"
 
-	"github.com/your-package/chat-api/models"
+	"github.com/danielcportofolio/chat-api/models"
 )
 
 type UserRepository struct {
